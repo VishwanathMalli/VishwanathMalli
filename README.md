@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishwanath Malli</h1>
 <h3 align="center">A passionate Data Analyst/Data Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwanathmalli" alt="vishwanathmalli" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VishwanathMalli" alt="VishwanathMalli" /></a> </p>
 
 - 🔭 I’m currently working on [SQL E-commerce Analytics (BigQuery) End-to-end analytics project using real e-commerce data](https://github.com/VishwanathMalli/Retail-Growth-Analysis-Olist)
 
