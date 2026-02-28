@@ -21,7 +21,7 @@ I'm a **Data Analyst with 2 years of experience** based in Bangalore, India, spe
 
 I work across the full analytics stack — from writing optimized SQL queries and building data pipelines in Python, to designing interactive dashboards in Power BI that help stakeholders make confident, data-driven decisions.
 
-- 🔭 Currently working on: [E-commerce Retail Growth Analysis using BigQuery & SQL](https://github.com/VishwanathMalli/Retail-Growth-Analysis-Olist)
+- 🔭 Currently working in: Ericsson India pvt ltd 
 - 💼 Open to **Data Analyst / Business Analyst** opportunities
 - 💬 Ask me about: **SQL (CTEs, window functions, joins), Python, Power BI, BigQuery**
 - 📄 [View My Resume](https://drive.google.com/file/d/1vMeVRBHGiqMhFy4Lis4_sfS_1M56Hj5z/view?usp=sharing)
