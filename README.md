@@ -24,7 +24,7 @@ I work across the full analytics stack — from writing optimized SQL queries an
 - 🔭 Currently working in: Ericsson India pvt ltd 
 - 💼 Open to **Data Analyst / Business Analyst** opportunities
 - 💬 Ask me about: **SQL (CTEs, window functions, joins), Python, Power BI, BigQuery**
-- 📄 [View My Resume](https://drive.google.com/file/d/1vMeVRBHGiqMhFy4Lis4_sfS_1M56Hj5z/view?usp=sharing)
+- 📄 [View My Resume](https://docs.google.com/document/d/1XEn2n1yRJQdhEcq_Fm8Z6rfjBlNEqs5S/edit?usp=drive_link&ouid=115597796189867359354&rtpof=true&sd=true)
 
 ---
 
