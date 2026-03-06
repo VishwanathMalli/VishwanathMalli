@@ -64,5 +64,5 @@ Production automation system built at Ericsson for daily LTE/NR zero-traffic cel
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://www.linkedin.com/in/vishwanath-malli-1920951a0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pmvishwa.malli@gmail.com)
