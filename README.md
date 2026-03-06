@@ -99,7 +99,7 @@ Production automation system built at Ericsson for daily LTE/NR zero-traffic cel
 - Full audit trail in MySQL enables historical queries impossible with the previous Excel-only process (e.g. "how many times has this cell been zero-traffic this month?")
 - Layered business rules (traffic volume + hours + cell state) prevent false positives — operations team gets a clean, reliable escalation list every morning
 
-Note: Due to data confidentiality, the real data is replaced with imagined data
+Note: Due to data confidentiality, the real data is replaced with imagined data for Telecom KPI Automation
 ---
 
 ## 📫 Connect
